@@ -83,5 +83,16 @@ npm run build
 npm run preview
 ```
 
-Tamila SAAS - Tu asistente de gestión inteligente
-© 2026 César Cancino - cesarcancino.com
+## 📸 Capturas de pantalla
+
+### Login
+![Login](public/screenshots/login.png)
+*Página de inicio de sesión con diseño responsive y validación en tiempo real*
+
+### Panel de Administración
+![Panel de Administración](public/screenshots/admin-home.png)
+*Dashboard principal con acceso rápido a módulos del sistema*
+
+
+### Tamila SAAS - Tu asistente de gestión inteligente
+### © 2026 César Cancino - cesarcancino.com
